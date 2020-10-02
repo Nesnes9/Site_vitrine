@@ -1,0 +1,2 @@
+$('.parallax').parallax();
+$('.sidenav').sidenav();

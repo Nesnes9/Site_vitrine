@@ -1,0 +1,33 @@
+
+
+.row{
+    padding: 5%;
+    
+}
+
+.logo{
+    height :60px;
+}
+
+.nav{
+    height: 120px;
+    line-height: 120px;
+   
+}
+
+.nav-wrapper{
+    background-color: #dfb9b9;
+}
+
+.page-footer{
+    background-color: #dfb9b9; 
+
+}
+
+.card-action p {
+    color: rgb(226, 0, 65);
+}
+
+span p{
+    color : black;
+}

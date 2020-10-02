@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(247, 234, 218);
+}
+
+
+h1, h2{
+    font-family:'Pacifico';
+    text-align: center;
+    color: rgb(226, 0, 65);;
+}
+
+h3{
+    Font-family: 'Capriola', sans-serif;
+    text-align: center;
+    color: gray;
+}
+
+img{
+    height: 250px;
+  
+  
+}
+
+
+.missions{
+    background-color: transparent;
+    display: flex;  
+    justify-content: space-between;
+    padding: 3%;
+}
+
+.missions img{
+    border-radius: 50%;
+    width: 30%;
+    
+}
+
+.valeurs{
+    background-color: transparent;
+    display: flex;  
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 3%;
+}
+
+.valeurs img{
+    border-radius: 50%;
+    width: 30%;
+}
+.news{
+    background-color: white;
+}
+
+.foot{
+    background-color: transparent;
+}
+
+.logo{
+    height :60px;
+}
+
+.nav{
+    height: 120px;
+    line-height: 120px;
+}
+
+.nav-wrapper{
+    background-color: #dfb9b9;
+}
+
+
+.partenaire{
+    text-align: center;
+    margin: 5%;
+
+}
+.partenaire img{
+    border-radius: 50%;
+}
+
+.nav-wrapper{
+    background-color: #dfb9b9;
+}
+
+.page-footer{
+    background-color: #dfb9b9; 
+
+}

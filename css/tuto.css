@@ -1,0 +1,61 @@
+ul.disc > li {
+    list-style-type: disc;
+}
+
+ul{
+	text-align: center;
+}
+
+h1{text-align: center;
+	opacity: 0.33;
+  font-family:'Pacifico';
+}
+h2{
+	text-align: center;
+	color: rgb(226, 0, 65);
+	padding: -30px 0px 0px 0px;
+	font-family:'Capriola', sans-serif;
+}
+h3{
+	text-align: left;
+	color: grey;
+	font-family: 'Capriola', sans-serif;
+	font-size: 200%;
+	padding: -30px 0px 0px 0px;
+}
+img{
+	margin:auto;
+	display:block;
+}
+
+img.step{
+	display:inline;
+}
+
+.card-image{
+	display: flex;
+	align-items: center;
+}
+
+.card{
+	min-height: 330px;
+}
+
+
+.logo{
+    height :60px;
+}
+
+.nav{
+    height: 120px;
+    line-height: 120px;
+}
+
+.nav-wrapper{
+    background-color: #dfb9b9;
+}
+
+.page-footer{
+    background-color: #dfb9b9; 
+
+}
